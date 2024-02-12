@@ -999,7 +999,7 @@ h1,p{
 
 .heart {
     position: relative;
-    width: 750px; /* Adjust as needed */
+    width: 900px; /* Adjust as needed */
     height: 900px; /* Adjust as needed */
     margin: 0 auto;
 }
@@ -1008,7 +1008,7 @@ h1,p{
     position: absolute; /* Position the image absolutely */
     top: 800px; /* Position from the top (adjust as needed) */
     left: 70px; /* Position from the left (adjust as needed) */
-    width: 600px; /* Width of the image (adjust to match the heart width minus the border) */
+    width: 900px; /* Width of the image (adjust to match the heart width minus the border) */
     height: 900px; /* Height of the image (adjust to match the heart height minus the border) */
     clip-path: url(#heartMask); /* Apply heart shape mask */
     z-index: 1; /* Set the stacking order */
